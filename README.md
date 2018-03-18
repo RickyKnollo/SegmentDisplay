@@ -1,4 +1,4 @@
-# SegmentDisplay !!! ( is in development , not executable )
+# SegmentDisplay
 This SegmentDisplay is a Enhancements for [NodeRed-Dashboard](https://github.com/node-red/node-red-dashboard).  
 The library was developed by [3Quarks](http://www.3quarks.com/en/SegmentDisplay).  
 Thanks for the great work.
@@ -39,13 +39,14 @@ disp.pattern = "#####";
 disp.digitHeight = 11;
 disp.digitWidth = 7;
 disp.cornerType = 3;
-disp.displayType = 7;
+disp.segmentType = 7;
 disp.displayAngle = 9;
 disp.digitDistance = 1;
 disp.segmentWidth = 1;
 disp.segmentDistance = 0.5;
 disp.colorOn = "red";
 disp.colorOff = "#111111";
+disp.draw();
 disp.setValue("12345");
 </pre>
 
