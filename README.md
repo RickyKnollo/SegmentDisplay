@@ -49,4 +49,4 @@ disp.colorOff = "#111111";
 disp.setValue("12345");
 </pre>
 
-![IMG1](Image01.png)
+![IMG1](Image01.PNG)
