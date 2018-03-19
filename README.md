@@ -1,5 +1,5 @@
 # SegmentDisplay
-This SegmentDisplay is a Enhancements for [NodeRed-Dashboard](https://github.com/node-red/node-red-dashboard).  
+This 7/14/16 SegmentDisplay is a Enhancements for [NodeRed-Dashboard](https://github.com/node-red/node-red-dashboard).  
 The library was developed by [3Quarks](http://www.3quarks.com/en/SegmentDisplay).  
 Thanks for the great work.
 
