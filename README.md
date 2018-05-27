@@ -1,6 +1,7 @@
 # SegmentDisplay
 This 7/14/16 SegmentDisplay is a Enhancements for [NodeRed-Dashboard](https://github.com/node-red/node-red-dashboard).  
-The library was developed by [3Quarks](http://www.3quarks.com/en/SegmentDisplay).  
+The library was developed by [3Quarks](http://www.3quarks.com/en/SegmentDisplay).
+Tested in Node-Red-Dashboard V 2.8.3 in V 2.9.4 is not running
 Thanks for the great work.
 
 ## Change File : package.json
