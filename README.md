@@ -26,7 +26,7 @@ Thanks for the great work.
 <script src="components/ui-segmentdisplay/ui-segmentdisplay.js"></script>
 <script src="vendor/segmentdisplay/segment-display.js"></script>
 ...
-<!-- endbuild -->
+&lt;!-- endbuild --&gt;
 </pre>
 
 #### New Files
